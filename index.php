@@ -3,7 +3,9 @@
 <body>
 
 <?php
-echo "My first PHP script!</br>";
+echo
+    <h2>"My first PHP script!</br>";<h2>
+        <h3>Trang cá nhân của Nguyễn Hoàng Sang </br></h3>
 ?>
 
 
