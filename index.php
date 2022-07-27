@@ -9,6 +9,7 @@ echo "My first PHP script!</br>";
 
 </body>
 </html>
+
 ?>
 <form action="chinh-sua-thanh-vien.php" method="post">
     <table>
